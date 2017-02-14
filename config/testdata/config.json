@@ -1,0 +1,6 @@
+{
+    "heartbeat": {
+        "timeout": 1,
+        "max_misses": 2
+    }
+}
