@@ -1,0 +1,3 @@
+heartbeat:
+    timeout: 1     # In seconds
+    max_misses: 2  # Maximum heartbeat misses
